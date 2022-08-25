@@ -127,6 +127,8 @@ p {
   padding: 200px 0;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)),
     url(../images/bg-first-screen.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: var(--background-color);
 }
 .first-screen h1 {
